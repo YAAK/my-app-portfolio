@@ -1,0 +1,21 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Base.Theme.AppCompat.Light">
+        <!-- Customize your theme here. -->
+
+    </style>
+
+    <style name="AppTheme.Btn.Simple" parent="Base.Theme.AppCompat.Light">
+        <item name="android:background">#81D4FA</item>
+        <item name="android:layout_margin">5dp</item>
+
+    </style>
+
+    <style name="AppTheme.Btn.Action" parent="Base.Theme.AppCompat.Light">
+        <item name="android:background">#EF9A9A</item>
+        <item name="android:layout_margin">5dp</item>
+
+    </style>
+
+</resources>
